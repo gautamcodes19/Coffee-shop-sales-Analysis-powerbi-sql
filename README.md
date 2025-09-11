@@ -75,7 +75,7 @@ sales\
 ## 📷 Dashboard Preview
 
 ![Dashboard
-Placeholder](https://github.com/gautamcodes19/Coffee-shop-sales-Analysis-powerbi-sql/blob/main/Dashboard/Sales_Dashboard.PNG)
+Placeholder](https://github.com/gautamcodes19/Coffee-shop-sales-Analysis-powerbi-sql/tree/master/Dashboard)
 
 ## Live Dashboard
 [📊 View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGFlNzAzYWMtZGE0ZC00YTBiLWE1ZTAtN2IzMWUxNTJlMjlhIiwidCI6IjM0ZGE0ZjM5LWZlMzItNDQ0Ny05NjZkLTZhYTdhYTM0MzM4ZiJ9)
